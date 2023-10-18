@@ -1,0 +1,12 @@
+#body{
+    background-color: aquamarine;
+    display: inline-block;
+}
+
+
+.produkt{
+    background-color: grey;
+    border: black 5px solid;
+    width: 300px;
+    height: 150px;
+}
