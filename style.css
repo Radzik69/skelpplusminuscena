@@ -10,3 +10,9 @@
     width: 300px;
     height: 150px;
 }
+#createProductDiv{
+    background-color: dimgray;
+    border: black 5px solid;
+    width: 300px;
+    height: 150px;
+}
